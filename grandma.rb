@@ -12,6 +12,7 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
+<<<<<<< HEAD
 def speak_to_grandma(str)
   if str == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
@@ -22,3 +23,5 @@ def speak_to_grandma(str)
   end
   
 end
+=======
+>>>>>>> d689c8b0b69fd0f9d040d7ff8c8e23fbbe89227e
